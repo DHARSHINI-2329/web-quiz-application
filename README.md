@@ -46,8 +46,8 @@ quiz-app/
 * LEARNING OUTCOMES:
 
 * DOM Manipulation
-* Fetch API usage
 * JSON data handling
 * LocalStorage authentication
 * Dynamic UI updates
+
 
